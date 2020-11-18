@@ -1,3 +1,3 @@
 #!/bin/bash
 cd /var/www/api/code
-sudo service nginx restart
+sudo /usr/sbin/service nginx restart
